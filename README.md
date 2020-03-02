@@ -18,4 +18,7 @@ LedgeのGithubアカウントから、ledge-ai/Microsoft-QuestionAnalytics-API �
 「I trust the contents of this repo」のチェックをした上で「Import」します。
 
 リポジトリの複製が完了するのに時間がかかりますが、完了するとすべてのファイルがコピーされていることが確認できます。
+
+![](images/azure_notebook.png)
+
 これで「text_analytics.ipynb」を実行することができます。
